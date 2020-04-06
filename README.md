@@ -4,7 +4,7 @@
 
 ![Alt Text](https://media.giphy.com/media/blSTtZehjAZ8I/giphy.gif)
 
-<img src="https://media.giphy.com/media/blSTtZehjAZ8I/giphy.gif" width="40" height="40" align="center" />
+<img src="https://media.giphy.com/media/blSTtZehjAZ8I/giphy.gif" width="100" height="100" align="right" />
 
 
 ## Introduction/Business Problem
