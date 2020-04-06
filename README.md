@@ -1,5 +1,7 @@
 # Coursera Capstone Project Report
 # Finding the best location for a nightclub in the city of Copenhagen, Denmark
+<img src="https://j.gifs.com/xvwEvJ.gif" width="250" align="center">
+
 
 ## Introduction/Business Problem
 
