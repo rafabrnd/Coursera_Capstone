@@ -2,6 +2,10 @@
 # Finding the best location for a nightclub in the city of Copenhagen, Denmark
 <iframe src='//gifs.com/embed/four-sambucas-xvwEvJ' frameborder='0' scrolling='no' width='474px' height='588px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
 
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
+
+
 ## Introduction/Business Problem
 
 A multinational nightlife investment company who owns diverse bars and nightclubs would like to expand his business to the city of Copenhagen in Denmark. Diverse previous reports indicated that the most lively areas (areas where most bars & nightclubs) are located have the most amount of food traffic in the city during the night time. For this reason, the company would like to find areas of the city that are arealy established as go-to zones for the young party community. These areas would represent the perfect location for a new and exciting nightlife business. In this notebook I will cluster the different locations of the city of Copenhagen based on the most common venues in order to understand where the location of the new bar should be. 
